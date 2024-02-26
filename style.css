@@ -73,7 +73,7 @@ main div.social-links-container a:hover {
   color: hsl(0, 0%, 8%);
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 480px) {
   main {
     padding: 1.5rem 1rem;
   }
