@@ -14,7 +14,7 @@ $OffBlack: hsl(0, 0%, 8%);
 
 body {
   display: grid;
-  place-items: center;
+  place-content: center;
   height: 100vh;
   background-color: $OffBlack;
 }
