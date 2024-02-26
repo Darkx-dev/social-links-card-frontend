@@ -61,7 +61,7 @@ main div.social-links-container a {
   width: 21rem;
   text-align: center;
   background-color: hsl(0, 0%, 20%);
-  border-radius: 5px;
+  border-radius: 10px;
   padding: 1rem 0;
   text-decoration: none;
   color: hsl(0, 0%, 100%);
